@@ -1,4 +1,4 @@
-package java_learning;
+package basics;
 
 public class Helloworld {
 	//This is my first java program
